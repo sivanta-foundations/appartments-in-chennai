@@ -1,0 +1,2564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Best Apartment Builders in Chennai | Sivanta Foundations – Homes Built for Families</title>
+  <meta name="description" content="Sivanta Foundations builds quality apartments in Puzhal, Madhavaram & Chennai. Vaastu-compliant, eco-friendly homes with superior construction. Trusted by 200+ families. Schedule a free site visit today." />
+  <meta name="keywords" content="apartments in Chennai, flats in Puzhal, apartments in Madhavaram, best builders in Chennai, flats for sale Chennai, BHK apartments Chennai, Sivanta Foundations" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Sivanta Foundations" />
+  <link rel="canonical" href="https://www.sivantafoundations.com/" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Best Apartment Builders in Chennai | Sivanta Foundations" />
+  <meta property="og:description" content="Quality apartments in Puzhal, Madhavaram & Chennai built for families. Superior construction, Vaastu-compliant, affordable pricing." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.sivantafoundations.com/" />
+  <meta property="og:image" content="https://www.sivantafoundations.com/wp-content/uploads/2024/07/nightview.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Best Apartment Builders in Chennai | Sivanta Foundations" />
+  <meta name="twitter:description" content="Affordable, quality apartments in Chennai. Trusted by 200+ families." />
+
+  <!-- Schema.org Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "RealEstateAgent",
+    "name": "Sivanta Foundations",
+    "description": "Best apartment builders in Chennai specializing in residential and commercial properties in Puzhal, Madhavaram and across Chennai.",
+    "url": "https://www.sivantafoundations.com/",
+    "telephone": "+919994988777",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "No: 3, 1st Floor, C-47, 2nd Avenue, TNHB Complex",
+      "addressLocality": "Anna Nagar, Chennai",
+      "postalCode": "600040",
+      "addressCountry": "IN"
+    },
+    "sameAs": [
+      "https://www.facebook.com/sivantafoundations/",
+      "https://www.instagram.com/sivantafoundations/"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "127"
+    }
+  }
+  </script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&display=swap" rel="stylesheet">
+
+  <style>
+    /* ===== CSS CUSTOM PROPERTIES ===== */
+    :root {
+      --green-deep:    #0D3D2B;
+      --green-mid:     #1A5C40;
+      --green-light:   #2E7D58;
+      --gold:          #C9973A;
+      --gold-light:    #E6B96A;
+      --gold-pale:     #F5E8CC;
+      --cream:         #F9F5EE;
+      --cream-dark:    #EFE9DC;
+      --white:         #FFFFFF;
+      --dark:          #0A0A08;
+      --dark-2:        #1A1A17;
+      --mid-grey:      #6B6B5E;
+      --light-grey:    #D4CFC5;
+      --font-display:  'Cormorant Garamond', Georgia, serif;
+      --font-body:     'DM Sans', sans-serif;
+      --shadow-sm:     0 2px 12px rgba(0,0,0,0.08);
+      --shadow-md:     0 8px 32px rgba(0,0,0,0.12);
+      --shadow-lg:     0 20px 60px rgba(0,0,0,0.18);
+      --radius:        4px;
+      --radius-lg:     12px;
+      --transition:    all 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    }
+
+    /* ===== RESET ===== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; font-size: 16px; }
+    body {
+      font-family: var(--font-body);
+      color: var(--dark);
+      background: var(--cream);
+      overflow-x: hidden;
+      line-height: 1.6;
+    }
+    img { max-width: 100%; height: auto; display: block; }
+    a { text-decoration: none; color: inherit; }
+    ul { list-style: none; }
+    button { cursor: pointer; border: none; background: none; font-family: inherit; }
+
+    /* ===== UTILITY ===== */
+    .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+    .container--wide { max-width: 1400px; margin: 0 auto; padding: 0 32px; }
+    .section-label {
+      font-family: var(--font-body);
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section-label::before {
+      content: '';
+      width: 28px;
+      height: 1px;
+      background: var(--gold);
+    }
+    .section-title {
+      font-family: var(--font-display);
+      font-weight: 600;
+      line-height: 1.2;
+      color: var(--dark);
+    }
+    .section-title--lg { font-size: clamp(2.2rem, 4vw, 3.4rem); }
+    .section-title--md { font-size: clamp(1.8rem, 3vw, 2.6rem); }
+    .section-title--white { color: var(--white); }
+    .section-subtitle {
+      font-size: 1.05rem;
+      color: var(--mid-grey);
+      line-height: 1.75;
+      max-width: 560px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 32px;
+      font-family: var(--font-body);
+      font-size: 0.875rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      border-radius: var(--radius);
+      transition: var(--transition);
+      white-space: nowrap;
+    }
+    .btn--gold {
+      background: var(--gold);
+      color: var(--white);
+    }
+    .btn--gold:hover {
+      background: var(--green-mid);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(201,151,58,0.35);
+    }
+    .btn--outline {
+      border: 1.5px solid var(--green-mid);
+      color: var(--green-mid);
+    }
+    .btn--outline:hover {
+      background: var(--green-mid);
+      color: var(--white);
+      transform: translateY(-2px);
+    }
+    .btn--outline-white {
+      border: 1.5px solid rgba(255,255,255,0.6);
+      color: var(--white);
+    }
+    .btn--outline-white:hover {
+      background: rgba(255,255,255,0.15);
+      border-color: var(--white);
+      transform: translateY(-2px);
+    }
+    .btn svg { width: 16px; height: 16px; transition: transform 0.3s ease; }
+    .btn:hover svg { transform: translateX(3px); }
+
+    /* ===== TOP BAR ===== */
+    .topbar {
+      background: var(--green-deep);
+      color: rgba(255,255,255,0.75);
+      font-size: 0.78rem;
+      padding: 8px 0;
+    }
+    .topbar__inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+    }
+    .topbar a { color: rgba(255,255,255,0.85); transition: color 0.2s; }
+    .topbar a:hover { color: var(--gold-light); }
+    .topbar__contact { display: flex; gap: 24px; }
+    .topbar__contact span { display: flex; align-items: center; gap: 6px; }
+    .topbar__social { display: flex; gap: 12px; }
+    .topbar__social a { display: flex; align-items: center; }
+
+    /* ===== NAVBAR ===== */
+    .navbar {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: var(--white);
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+    }
+    .navbar.scrolled {
+      background: rgba(255,255,255,0.97);
+      backdrop-filter: blur(12px);
+    }
+    .navbar__inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 72px;
+    }
+    .navbar__logo {
+      display: flex;
+      flex-direction: column;
+      line-height: 1;
+    }
+    .navbar__logo-text {
+      font-family: var(--font-display);
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--green-deep);
+      letter-spacing: -0.02em;
+    }
+    .navbar__logo-sub {
+      font-size: 0.62rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 600;
+      margin-top: 2px;
+    }
+    .navbar__nav { display: flex; align-items: center; gap: 4px; }
+    .navbar__nav a {
+      font-size: 0.82rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      padding: 8px 14px;
+      border-radius: var(--radius);
+      color: var(--dark-2);
+      transition: var(--transition);
+      position: relative;
+    }
+    .navbar__nav a:hover { color: var(--green-mid); }
+    .navbar__nav a::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 14px;
+      right: 14px;
+      height: 2px;
+      background: var(--gold);
+      transform: scaleX(0);
+      transition: transform 0.3s ease;
+      border-radius: 2px;
+    }
+    .navbar__nav a:hover::after { transform: scaleX(1); }
+    .navbar__cta { display: flex; gap: 10px; align-items: center; }
+    .navbar__phone {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--green-deep);
+    }
+    .navbar__phone svg { color: var(--gold); }
+    .navbar__hamburger { display: none; flex-direction: column; gap: 5px; padding: 8px; }
+    .navbar__hamburger span { width: 24px; height: 2px; background: var(--dark); border-radius: 2px; transition: var(--transition); }
+
+    /* Dropdown */
+    .nav-dropdown { position: relative; }
+    .nav-dropdown__menu {
+      position: absolute;
+      top: calc(100% + 8px);
+      left: 0;
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-lg);
+      min-width: 200px;
+      padding: 8px;
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(-8px);
+      transition: var(--transition);
+      border-top: 3px solid var(--gold);
+    }
+    .nav-dropdown:hover .nav-dropdown__menu {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+    .nav-dropdown__menu a {
+      display: block;
+      padding: 10px 14px;
+      font-size: 0.82rem;
+      border-radius: var(--radius);
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      position: relative;
+      height: 92vh;
+      min-height: 620px;
+      max-height: 900px;
+      overflow: hidden;
+      display: flex;
+      align-items: flex-end;
+    }
+    .hero__slides { position: absolute; inset: 0; }
+    .hero__slide {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      opacity: 0;
+      transition: opacity 1.2s ease;
+    }
+    .hero__slide.active { opacity: 1; }
+    .hero__slide::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        135deg,
+        rgba(8,30,20,0.82) 0%,
+        rgba(8,30,20,0.45) 50%,
+        rgba(8,30,20,0.2) 100%
+      );
+    }
+    .hero__slide--1 { background-image: url('https://www.sivantafoundations.com/wp-content/uploads/2024/07/nightview.jpg'); }
+    .hero__slide--2 { background-image: url('https://www.sivantafoundations.com/wp-content/uploads/2024/07/vanagarderdayview.jpg'); }
+    .hero__slide--3 { background-image: url('https://www.sivantafoundations.com/wp-content/uploads/2021/03/ccc.jpg'); }
+    .hero__slide--4 { background-image: url('https://www.sivantafoundations.com/wp-content/uploads/2024/07/C6VMJDSQ_output_0.jpeg'); }
+
+    .hero__content {
+      position: relative;
+      z-index: 10;
+      padding: 80px 0;
+      width: 100%;
+    }
+    .hero__inner {
+      display: grid;
+      grid-template-columns: 1fr 380px;
+      gap: 48px;
+      align-items: flex-end;
+    }
+    .hero__badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(201,151,58,0.2);
+      border: 1px solid rgba(201,151,58,0.5);
+      border-radius: 100px;
+      padding: 6px 16px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--gold-light);
+      margin-bottom: 20px;
+    }
+    .hero__badge-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--gold-light);
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(0.8); }
+    }
+    .hero__headline {
+      font-family: var(--font-display);
+      font-size: clamp(2.8rem, 5.5vw, 5rem);
+      font-weight: 600;
+      color: var(--white);
+      line-height: 1.1;
+      margin-bottom: 20px;
+    }
+    .hero__headline em {
+      font-style: italic;
+      color: var(--gold-light);
+    }
+    .hero__subtext {
+      font-size: 1.05rem;
+      color: rgba(255,255,255,0.75);
+      line-height: 1.75;
+      max-width: 520px;
+      margin-bottom: 36px;
+    }
+    .hero__actions { display: flex; gap: 14px; flex-wrap: wrap; }
+
+    /* Hero Quick Search Card */
+    .hero__card {
+      background: rgba(255,255,255,0.96);
+      border-radius: 16px;
+      padding: 32px;
+      box-shadow: var(--shadow-lg);
+      backdrop-filter: blur(12px);
+    }
+    .hero__card-title {
+      font-family: var(--font-display);
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: var(--green-deep);
+      margin-bottom: 4px;
+    }
+    .hero__card-sub {
+      font-size: 0.8rem;
+      color: var(--mid-grey);
+      margin-bottom: 20px;
+    }
+    .hero__form { display: flex; flex-direction: column; gap: 12px; }
+    .hero__input-group { display: flex; flex-direction: column; gap: 5px; }
+    .hero__input-group label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--mid-grey);
+    }
+    .hero__input-group select,
+    .hero__input-group input {
+      width: 100%;
+      padding: 11px 14px;
+      border: 1.5px solid var(--light-grey);
+      border-radius: var(--radius);
+      font-family: var(--font-body);
+      font-size: 0.88rem;
+      color: var(--dark);
+      background: var(--cream);
+      transition: border-color 0.2s;
+      outline: none;
+    }
+    .hero__input-group select:focus,
+    .hero__input-group input:focus { border-color: var(--green-mid); }
+    .hero__form .btn { width: 100%; justify-content: center; }
+
+    /* Hero dots */
+    .hero__dots {
+      position: absolute;
+      bottom: 32px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 8px;
+      z-index: 10;
+    }
+    .hero__dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.4);
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    .hero__dot.active {
+      background: var(--gold);
+      width: 28px;
+      border-radius: 4px;
+    }
+
+    /* ===== TRUST BAR ===== */
+    .trustbar {
+      background: var(--green-deep);
+      padding: 20px 0;
+    }
+    .trustbar__inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+    .trustbar__item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .trustbar__icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: rgba(201,151,58,0.15);
+      border: 1px solid rgba(201,151,58,0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--gold-light);
+      flex-shrink: 0;
+    }
+    .trustbar__text { line-height: 1.3; }
+    .trustbar__num {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--white);
+    }
+    .trustbar__label {
+      font-size: 0.72rem;
+      color: rgba(255,255,255,0.6);
+      letter-spacing: 0.05em;
+    }
+    .trustbar__divider {
+      width: 1px;
+      height: 40px;
+      background: rgba(255,255,255,0.15);
+    }
+
+    /* ===== PEOPLE FIRST INTRO ===== */
+    .intro { padding: 100px 0; background: var(--cream); }
+    .intro__inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    .intro__left {}
+    .intro__tag { margin-bottom: 16px; }
+    .intro__title { margin-bottom: 20px; }
+    .intro__body {
+      font-size: 1rem;
+      color: var(--mid-grey);
+      line-height: 1.8;
+      margin-bottom: 16px;
+    }
+    .intro__values {
+      margin-top: 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .intro__value {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 16px;
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      border-left: 3px solid var(--gold);
+    }
+    .intro__value-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      background: var(--gold-pale);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--gold);
+      flex-shrink: 0;
+    }
+    .intro__value-title {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--dark);
+      margin-bottom: 3px;
+    }
+    .intro__value-desc { font-size: 0.82rem; color: var(--mid-grey); line-height: 1.5; }
+
+    .intro__right { position: relative; }
+    .intro__img-main {
+      width: 100%;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: var(--shadow-lg);
+    }
+    .intro__img-main img {
+      width: 100%;
+      height: 480px;
+      object-fit: cover;
+      transition: transform 0.6s ease;
+    }
+    .intro__img-main:hover img { transform: scale(1.04); }
+    .intro__img-float {
+      position: absolute;
+      bottom: -28px;
+      left: -32px;
+      width: 200px;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      box-shadow: var(--shadow-lg);
+      border: 4px solid var(--cream);
+    }
+    .intro__img-float img { width: 100%; height: 150px; object-fit: cover; }
+    .intro__award {
+      position: absolute;
+      top: 24px;
+      right: -20px;
+      background: var(--gold);
+      color: var(--white);
+      border-radius: 12px;
+      padding: 16px 20px;
+      text-align: center;
+      box-shadow: var(--shadow-md);
+    }
+    .intro__award-num {
+      font-family: var(--font-display);
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .intro__award-text { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.05em; opacity: 0.9; margin-top: 4px; }
+
+    /* ===== JOURNEY SECTION ===== */
+    .journey { padding: 100px 0; background: var(--dark); position: relative; overflow: hidden; }
+    .journey::before {
+      content: 'YOUR\AJOURNEY';
+      position: absolute;
+      top: -30px;
+      left: -20px;
+      font-family: var(--font-display);
+      font-size: 14rem;
+      font-weight: 700;
+      color: rgba(255,255,255,0.02);
+      white-space: pre;
+      line-height: 1;
+      pointer-events: none;
+    }
+    .journey__header { text-align: center; margin-bottom: 64px; }
+    .journey__header .section-label { justify-content: center; }
+    .journey__header .section-label::before { display: none; }
+    .journey__header .section-label::after { content: ''; width: 28px; height: 1px; background: var(--gold); }
+    .journey__title { color: var(--white); margin-top: 12px; }
+    .journey__sub { color: rgba(255,255,255,0.55); font-size: 1rem; max-width: 480px; margin: 12px auto 0; text-align: center; }
+    .journey__steps {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 0;
+      position: relative;
+    }
+    .journey__steps::before {
+      content: '';
+      position: absolute;
+      top: 36px;
+      left: calc(10% + 18px);
+      right: calc(10% + 18px);
+      height: 2px;
+      background: linear-gradient(90deg, var(--gold), var(--green-light));
+      z-index: 0;
+    }
+    .journey__step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 0 12px;
+      position: relative;
+      z-index: 1;
+    }
+    .journey__num {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: var(--dark-2);
+      border: 2px solid var(--gold);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 20px;
+      transition: var(--transition);
+      position: relative;
+      z-index: 2;
+    }
+    .journey__step:hover .journey__num {
+      background: var(--gold);
+      color: var(--white);
+      transform: scale(1.1);
+    }
+    .journey__step-title {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--white);
+      margin-bottom: 8px;
+    }
+    .journey__step-desc { font-size: 0.78rem; color: rgba(255,255,255,0.5); line-height: 1.6; }
+
+    /* ===== PROJECTS ===== */
+    .projects { padding: 100px 0; background: var(--cream-dark); }
+    .projects__header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-bottom: 48px;
+    }
+    .projects__tabs {
+      display: flex;
+      gap: 6px;
+      background: var(--cream);
+      padding: 4px;
+      border-radius: var(--radius-lg);
+    }
+    .projects__tab {
+      padding: 8px 20px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      border-radius: calc(var(--radius-lg) - 2px);
+      color: var(--mid-grey);
+      transition: var(--transition);
+      cursor: pointer;
+    }
+    .projects__tab.active {
+      background: var(--green-mid);
+      color: var(--white);
+    }
+    .projects__grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 28px;
+    }
+    .project-card {
+      background: var(--white);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+    }
+    .project-card:hover {
+      transform: translateY(-6px);
+      box-shadow: var(--shadow-lg);
+    }
+    .project-card--featured {
+      grid-column: span 2;
+    }
+    .project-card__img {
+      position: relative;
+      overflow: hidden;
+    }
+    .project-card--featured .project-card__img { height: 340px; }
+    .project-card__img { height: 240px; }
+    .project-card__img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.6s ease;
+    }
+    .project-card:hover .project-card__img img { transform: scale(1.06); }
+    .project-card__status {
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      padding: 5px 14px;
+      border-radius: 100px;
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .project-card__status--ongoing {
+      background: var(--gold);
+      color: var(--white);
+    }
+    .project-card__status--completed {
+      background: var(--green-mid);
+      color: var(--white);
+    }
+    .project-card__body { padding: 24px; }
+    .project-card__location {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.75rem;
+      color: var(--gold);
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .project-card__name {
+      font-family: var(--font-display);
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--dark);
+      margin-bottom: 8px;
+    }
+    .project-card__desc {
+      font-size: 0.85rem;
+      color: var(--mid-grey);
+      line-height: 1.65;
+      margin-bottom: 18px;
+    }
+    .project-card__meta {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 18px;
+      padding-top: 18px;
+      border-top: 1px solid var(--cream-dark);
+    }
+    .project-card__meta-item { display: flex; flex-direction: column; gap: 2px; }
+    .project-card__meta-label { font-size: 0.68rem; color: var(--mid-grey); text-transform: uppercase; letter-spacing: 0.08em; }
+    .project-card__meta-val { font-size: 0.88rem; font-weight: 600; color: var(--dark); }
+    .project-card__link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--green-mid);
+      transition: gap 0.2s;
+    }
+    .project-card:hover .project-card__link { gap: 10px; }
+
+    /* ===== WHY CHOOSE US ===== */
+    .why { padding: 100px 0; background: var(--cream); }
+    .why__inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    .why__left { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .why__card {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      padding: 28px;
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+      border-bottom: 3px solid transparent;
+    }
+    .why__card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-md);
+      border-bottom-color: var(--gold);
+    }
+    .why__card--accent {
+      background: var(--green-deep);
+      color: var(--white);
+      border-bottom-color: var(--gold);
+    }
+    .why__card-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      background: var(--gold-pale);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--gold);
+      margin-bottom: 16px;
+    }
+    .why__card--accent .why__card-icon {
+      background: rgba(201,151,58,0.2);
+      color: var(--gold-light);
+    }
+    .why__card-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--dark);
+      margin-bottom: 8px;
+    }
+    .why__card--accent .why__card-title { color: var(--white); }
+    .why__card-desc { font-size: 0.82rem; color: var(--mid-grey); line-height: 1.65; }
+    .why__card--accent .why__card-desc { color: rgba(255,255,255,0.65); }
+    .why__right { }
+    .why__right .section-label { margin-bottom: 16px; }
+    .why__right .section-title { margin-bottom: 20px; }
+    .why__body {
+      font-size: 1rem;
+      color: var(--mid-grey);
+      line-height: 1.8;
+      margin-bottom: 32px;
+    }
+    .why__materials {
+      margin-bottom: 32px;
+    }
+    .why__materials-title {
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--mid-grey);
+      margin-bottom: 12px;
+    }
+    .why__material-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+    .why__material-tag {
+      padding: 6px 14px;
+      background: var(--cream-dark);
+      border-radius: 100px;
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--dark);
+      border: 1px solid var(--light-grey);
+    }
+
+    /* ===== LOCATION SECTION ===== */
+    .location { padding: 100px 0; background: var(--green-deep); position: relative; overflow: hidden; }
+    .location::after {
+      content: '';
+      position: absolute;
+      top: 0; right: 0;
+      width: 50%;
+      height: 100%;
+      background: url('https://www.sivantafoundations.com/wp-content/uploads/2021/03/eee.jpg') center/cover;
+      opacity: 0.12;
+    }
+    .location__inner {
+      position: relative;
+      z-index: 2;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    .location__left .section-label { color: var(--gold-light); }
+    .location__left .section-label::before { background: var(--gold-light); }
+    .location__title { color: var(--white); margin-top: 12px; margin-bottom: 16px; }
+    .location__body { color: rgba(255,255,255,0.65); font-size: 1rem; line-height: 1.8; margin-bottom: 40px; }
+    .location__points { display: flex; flex-direction: column; gap: 16px; }
+    .location__point {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 16px 20px;
+      background: rgba(255,255,255,0.07);
+      border-radius: var(--radius-lg);
+      border-left: 3px solid var(--gold);
+    }
+    .location__point-icon { color: var(--gold-light); flex-shrink: 0; margin-top: 2px; }
+    .location__point-title { font-size: 0.9rem; font-weight: 600; color: var(--white); margin-bottom: 3px; }
+    .location__point-desc { font-size: 0.8rem; color: rgba(255,255,255,0.5); line-height: 1.55; }
+    .location__right {}
+    .location__areas {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    .location__area {
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      transition: var(--transition);
+    }
+    .location__area:hover {
+      background: rgba(201,151,58,0.15);
+      border-color: rgba(201,151,58,0.4);
+    }
+    .location__area-name {
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: var(--white);
+      margin-bottom: 4px;
+    }
+    .location__area-type { font-size: 0.72rem; color: var(--gold-light); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 10px; }
+    .location__area-facilities { font-size: 0.78rem; color: rgba(255,255,255,0.55); line-height: 1.6; }
+
+    /* ===== TESTIMONIALS ===== */
+    .testimonials { padding: 100px 0; background: var(--cream-dark); }
+    .testimonials__header { text-align: center; margin-bottom: 56px; }
+    .testimonials__header .section-label { justify-content: center; }
+    .testimonials__header .section-label::before { display: none; }
+    .testimonials__header .section-label::after { content: ''; width: 28px; height: 1px; background: var(--gold); }
+    .testimonials__grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .testimonial-card {
+      background: var(--white);
+      border-radius: 16px;
+      padding: 32px;
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+      position: relative;
+    }
+    .testimonial-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-md);
+    }
+    .testimonial-card--featured {
+      background: var(--green-deep);
+    }
+    .testimonial-card__quote {
+      font-family: var(--font-display);
+      font-size: 4rem;
+      color: var(--gold);
+      line-height: 0.5;
+      margin-bottom: 16px;
+      display: block;
+    }
+    .testimonial-card--featured .testimonial-card__quote { color: var(--gold-light); }
+    .testimonial-card__text {
+      font-size: 0.92rem;
+      color: var(--mid-grey);
+      line-height: 1.75;
+      margin-bottom: 24px;
+      font-style: italic;
+    }
+    .testimonial-card--featured .testimonial-card__text { color: rgba(255,255,255,0.75); }
+    .testimonial-card__stars { display: flex; gap: 3px; color: var(--gold); margin-bottom: 16px; }
+    .testimonial-card__author { display: flex; align-items: center; gap: 12px; }
+    .testimonial-card__avatar {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: var(--green-light);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--white);
+      flex-shrink: 0;
+    }
+    .testimonial-card--featured .testimonial-card__avatar { background: rgba(201,151,58,0.3); }
+    .testimonial-card__name {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--dark);
+    }
+    .testimonial-card--featured .testimonial-card__name { color: var(--white); }
+    .testimonial-card__role { font-size: 0.75rem; color: var(--mid-grey); }
+    .testimonial-card--featured .testimonial-card__role { color: rgba(255,255,255,0.5); }
+
+    /* ===== FAQ ===== */
+    .faq { padding: 100px 0; background: var(--cream); }
+    .faq__inner {
+      display: grid;
+      grid-template-columns: 1fr 1.6fr;
+      gap: 80px;
+      align-items: start;
+    }
+    .faq__left .section-title { margin-bottom: 16px; }
+    .faq__left .section-label { margin-bottom: 16px; }
+    .faq__left-body { font-size: 1rem; color: var(--mid-grey); line-height: 1.8; margin-bottom: 32px; }
+    .faq__cta {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      align-items: flex-start;
+    }
+    .faq__cta-phone {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 20px;
+      background: var(--cream-dark);
+      border-radius: var(--radius-lg);
+      width: 100%;
+    }
+    .faq__cta-phone-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--green-mid);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--white);
+      flex-shrink: 0;
+    }
+    .faq__cta-phone-label { font-size: 0.7rem; color: var(--mid-grey); text-transform: uppercase; letter-spacing: 0.08em; }
+    .faq__cta-phone-num { font-size: 0.95rem; font-weight: 600; color: var(--dark); }
+    .faq__list { display: flex; flex-direction: column; gap: 12px; }
+    .faq__item {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--light-grey);
+      overflow: hidden;
+      transition: var(--transition);
+    }
+    .faq__item.open { border-color: var(--gold); }
+    .faq__question {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 24px;
+      font-size: 0.92rem;
+      font-weight: 600;
+      color: var(--dark);
+      text-align: left;
+      gap: 16px;
+      cursor: pointer;
+      background: none;
+    }
+    .faq__question-icon {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--cream-dark);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--green-mid);
+      flex-shrink: 0;
+      transition: var(--transition);
+    }
+    .faq__item.open .faq__question-icon {
+      background: var(--gold);
+      color: var(--white);
+      transform: rotate(45deg);
+    }
+    .faq__answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s ease;
+    }
+    .faq__answer-inner {
+      padding: 0 24px 20px;
+      font-size: 0.88rem;
+      color: var(--mid-grey);
+      line-height: 1.75;
+    }
+
+    /* ===== CTA SECTION ===== */
+    .cta-section {
+      padding: 100px 0;
+      background: var(--gold);
+      position: relative;
+      overflow: hidden;
+    }
+    .cta-section::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url('https://www.sivantafoundations.com/wp-content/uploads/2024/07/nightview.jpg') center/cover;
+      opacity: 0.15;
+      mix-blend-mode: multiply;
+    }
+    .cta-section__inner {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    .cta-section__title {
+      font-family: var(--font-display);
+      font-size: clamp(2.2rem, 4vw, 3.4rem);
+      font-weight: 600;
+      color: var(--white);
+      line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    .cta-section__sub { font-size: 1.05rem; color: rgba(255,255,255,0.85); margin-bottom: 40px; }
+    .cta-section__actions { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+    .btn--white {
+      background: var(--white);
+      color: var(--gold);
+    }
+    .btn--white:hover {
+      background: var(--dark);
+      color: var(--white);
+      transform: translateY(-2px);
+    }
+
+    /* ===== BLOG ===== */
+    .blog { padding: 100px 0; background: var(--cream-dark); }
+    .blog__header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-bottom: 48px;
+    }
+    .blog__grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 28px;
+    }
+    .blog-card {
+      background: var(--white);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+    }
+    .blog-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-md); }
+    .blog-card__img { height: 210px; overflow: hidden; }
+    .blog-card__img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; }
+    .blog-card:hover .blog-card__img img { transform: scale(1.06); }
+    .blog-card__body { padding: 24px; }
+    .blog-card__cat {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 10px;
+    }
+    .blog-card__title {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--dark);
+      line-height: 1.35;
+      margin-bottom: 10px;
+    }
+    .blog-card:hover .blog-card__title { color: var(--green-mid); }
+    .blog-card__meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.75rem;
+      color: var(--mid-grey);
+    }
+    .blog-card__meta-dot {
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      background: var(--mid-grey);
+    }
+
+    /* ===== CONTACT STRIP ===== */
+    .contact-strip {
+      background: var(--green-deep);
+      padding: 60px 0;
+    }
+    .contact-strip__inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1.5fr;
+      gap: 32px;
+      align-items: center;
+    }
+    .contact-strip__item {
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+    }
+    .contact-strip__icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: rgba(201,151,58,0.15);
+      border: 1px solid rgba(201,151,58,0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--gold-light);
+      flex-shrink: 0;
+    }
+    .contact-strip__label { font-size: 0.7rem; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 3px; }
+    .contact-strip__val { font-size: 0.92rem; font-weight: 500; color: var(--white); }
+    .contact-strip__val a { color: var(--white); transition: color 0.2s; }
+    .contact-strip__val a:hover { color: var(--gold-light); }
+    .contact-strip__divider { width: 1px; height: 60px; background: rgba(255,255,255,0.1); justify-self: center; }
+    .contact-strip__form { display: flex; gap: 10px; }
+    .contact-strip__input {
+      flex: 1;
+      padding: 12px 16px;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: var(--radius);
+      color: var(--white);
+      font-family: var(--font-body);
+      font-size: 0.88rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .contact-strip__input::placeholder { color: rgba(255,255,255,0.4); }
+    .contact-strip__input:focus { border-color: var(--gold); }
+
+    /* ===== FOOTER ===== */
+    .footer { background: var(--dark-2); padding: 72px 0 0; }
+    .footer__top {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 1fr;
+      gap: 48px;
+      padding-bottom: 48px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    .footer__logo-text {
+      font-family: var(--font-display);
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--white);
+    }
+    .footer__logo-sub { font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
+    .footer__about {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.75;
+      margin: 16px 0 24px;
+    }
+    .footer__social { display: flex; gap: 10px; }
+    .footer__social-link {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      border: 1px solid rgba(255,255,255,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.9rem;
+      transition: var(--transition);
+    }
+    .footer__social-link:hover {
+      background: var(--gold);
+      border-color: var(--gold);
+      color: var(--white);
+      transform: translateY(-3px);
+    }
+    .footer__col-title {
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 20px;
+    }
+    .footer__links { display: flex; flex-direction: column; gap: 10px; }
+    .footer__links a {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.55);
+      transition: color 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .footer__links a:hover { color: var(--gold-light); }
+    .footer__links a::before { content: '›'; color: var(--gold); font-size: 1rem; }
+    .footer__bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 24px 0;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.35);
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .footer__bottom-links { display: flex; gap: 20px; }
+    .footer__bottom-links a { color: rgba(255,255,255,0.35); transition: color 0.2s; }
+    .footer__bottom-links a:hover { color: var(--gold-light); }
+
+    /* ===== STICKY ENQUIRY BAR ===== */
+    .sticky-enquiry {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--white);
+      box-shadow: 0 -4px 24px rgba(0,0,0,0.12);
+      padding: 14px 0;
+      z-index: 999;
+      transform: translateY(100%);
+      transition: transform 0.4s ease;
+    }
+    .sticky-enquiry.visible { transform: translateY(0); }
+    .sticky-enquiry__inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .sticky-enquiry__text { font-size: 0.9rem; font-weight: 600; color: var(--dark); }
+    .sticky-enquiry__text span { color: var(--gold); }
+    .sticky-enquiry__actions { display: flex; gap: 10px; }
+
+    /* WhatsApp FAB */
+    .whatsapp-fab {
+      position: fixed;
+      bottom: 80px;
+      right: 24px;
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: #25D366;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--white);
+      box-shadow: 0 4px 20px rgba(37,211,102,0.4);
+      z-index: 998;
+      transition: var(--transition);
+    }
+    .whatsapp-fab:hover {
+      transform: scale(1.1) translateY(-2px);
+      box-shadow: 0 8px 28px rgba(37,211,102,0.5);
+    }
+
+    /* ===== SCROLL ANIMATIONS ===== */
+    .reveal {
+      opacity: 0;
+      transform: translateY(28px);
+      transition: opacity 0.7s ease, transform 0.7s ease;
+    }
+    .reveal.revealed { opacity: 1; transform: translateY(0); }
+    .reveal-left {
+      opacity: 0;
+      transform: translateX(-28px);
+      transition: opacity 0.7s ease, transform 0.7s ease;
+    }
+    .reveal-left.revealed { opacity: 1; transform: translateX(0); }
+    .reveal-right {
+      opacity: 0;
+      transform: translateX(28px);
+      transition: opacity 0.7s ease, transform 0.7s ease;
+    }
+    .reveal-right.revealed { opacity: 1; transform: translateX(0); }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 1024px) {
+      .hero__inner { grid-template-columns: 1fr; }
+      .hero__card { display: none; }
+      .intro__inner { grid-template-columns: 1fr; gap: 48px; }
+      .intro__img-float { display: none; }
+      .intro__award { top: 16px; right: 16px; }
+      .why__inner { grid-template-columns: 1fr; gap: 48px; }
+      .location__inner { grid-template-columns: 1fr; gap: 48px; }
+      .journey__steps { grid-template-columns: repeat(3, 1fr); }
+      .journey__steps::before { display: none; }
+      .contact-strip__inner { grid-template-columns: 1fr 1fr; }
+      .footer__top { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 768px) {
+      .topbar { display: none; }
+      .navbar__nav { display: none; }
+      .navbar__hamburger { display: flex; }
+      .hero { height: 80vh; }
+      .hero__headline { font-size: 2.4rem; }
+      .projects__grid { grid-template-columns: 1fr; }
+      .project-card--featured { grid-column: span 1; }
+      .testimonials__grid { grid-template-columns: 1fr; }
+      .blog__grid { grid-template-columns: 1fr; }
+      .blog__header { flex-direction: column; align-items: flex-start; gap: 16px; }
+      .projects__header { flex-direction: column; align-items: flex-start; gap: 16px; }
+      .faq__inner { grid-template-columns: 1fr; gap: 40px; }
+      .journey__steps { grid-template-columns: 1fr 1fr; }
+      .contact-strip__inner { grid-template-columns: 1fr; }
+      .contact-strip__divider { display: none; }
+      .footer__top { grid-template-columns: 1fr; gap: 32px; }
+      .trustbar__divider { display: none; }
+      .trustbar__inner { gap: 16px; }
+      .why__left { grid-template-columns: 1fr; }
+      .location__areas { grid-template-columns: 1fr; }
+      .sticky-enquiry__text { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ===== TOP BAR ===== -->
+<div class="topbar" role="banner">
+  <div class="container">
+    <div class="topbar__inner">
+      <div class="topbar__contact">
+        <span>
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.63 19.79 19.79 0 01.07 2.18 2 2 0 012.06 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+          <a href="tel:+919994988777">+91 99949 88777</a>
+        </span>
+        <span>
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+          <a href="mailto:info@sivantafoundations.com">info@sivantafoundations.com</a>
+        </span>
+        <span>
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          Anna Nagar, Chennai – 600040
+        </span>
+      </div>
+      <div class="topbar__social">
+        <a href="https://www.facebook.com/sivantafoundations/" aria-label="Facebook" rel="noopener">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+        </a>
+        <a href="https://www.instagram.com/sivantafoundations/" aria-label="Instagram" rel="noopener">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== NAVBAR ===== -->
+<header>
+  <nav class="navbar" role="navigation" aria-label="Main navigation">
+    <div class="container">
+      <div class="navbar__inner">
+        <a href="/" class="navbar__logo" aria-label="Sivanta Foundations Home">
+          <span class="navbar__logo-text">Sivanta</span>
+          <span class="navbar__logo-sub">Foundations · Est. 2010</span>
+        </a>
+        <div class="navbar__nav">
+          <a href="/">Home</a>
+          <a href="/about-us/">About Us</a>
+          <div class="nav-dropdown">
+            <a href="#">Residential ▾</a>
+            <div class="nav-dropdown__menu">
+              <a href="/apartment-flats-in-madhavaram-and-puzhal/">Ongoing Projects</a>
+              <a href="/apartments-in-chennai/">Completed Projects</a>
+            </div>
+          </div>
+          <a href="/commercial-property-for-sale-in-chennai/">Commercial</a>
+          <a href="/testimonials/">Testimonials</a>
+          <a href="/blog/">Blog</a>
+          <a href="/contact-us/">Contact</a>
+        </div>
+        <div class="navbar__cta">
+          <div class="navbar__phone">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.63 19.79 19.79 0 01.07 2.18 2 2 0 012.06 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+            <a href="tel:+919994988777">+91 99949 88777</a>
+          </div>
+          <a href="/contact-us/" class="btn btn--gold">
+            Book Site Visit
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+        <button class="navbar__hamburger" aria-label="Open menu" id="menuBtn">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- ===== HERO ===== -->
+<section class="hero" aria-label="Welcome to Sivanta Foundations">
+  <div class="hero__slides" role="presentation">
+    <div class="hero__slide hero__slide--1 active" aria-hidden="true"></div>
+    <div class="hero__slide hero__slide--2" aria-hidden="true"></div>
+    <div class="hero__slide hero__slide--3" aria-hidden="true"></div>
+    <div class="hero__slide hero__slide--4" aria-hidden="true"></div>
+  </div>
+
+  <div class="hero__content">
+    <div class="container">
+      <div class="hero__inner">
+        <div class="hero__text">
+          <div class="hero__badge">
+            <span class="hero__badge-dot"></span>
+            Now Selling · Vana Garden, Madhavaram
+          </div>
+          <h1 class="hero__headline">
+            Build Your Dream<br>Home in <em>Chennai</em><br>with Confidence
+          </h1>
+          <p class="hero__subtext">
+            Trusted by 200+ families across Puzhal, Madhavaram & Anna Nagar. Every Sivanta home is built with superior materials, Vaastu compliance, and a promise that lasts generations.
+          </p>
+          <div class="hero__actions">
+            <a href="/apartment-flats-in-madhavaram-and-puzhal/" class="btn btn--gold">
+              Explore Projects
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </a>
+            <a href="/contact-us/" class="btn btn--outline-white">
+              Free Site Visit
+            </a>
+          </div>
+        </div>
+
+        <!-- Quick Enquiry Card -->
+        <div class="hero__card">
+          <div class="hero__card-title">Find Your Home</div>
+          <div class="hero__card-sub">Get matched to the right apartment</div>
+          <div class="hero__form">
+            <div class="hero__input-group">
+              <label for="location">Preferred Location</label>
+              <select id="location">
+                <option value="">Select Area</option>
+                <option>Puzhal</option>
+                <option>Madhavaram</option>
+                <option>Anna Nagar</option>
+                <option>Perambur</option>
+              </select>
+            </div>
+            <div class="hero__input-group">
+              <label for="bhk">BHK Type</label>
+              <select id="bhk">
+                <option value="">Select BHK</option>
+                <option>1 BHK</option>
+                <option>2 BHK</option>
+                <option>3 BHK</option>
+                <option>Commercial</option>
+              </select>
+            </div>
+            <div class="hero__input-group">
+              <label for="phone-hero">Your Phone</label>
+              <input type="tel" id="phone-hero" placeholder="+91 _____ _____" />
+            </div>
+            <button class="btn btn--gold" onclick="alert('Thank you! Our team will call you shortly.')">
+              Get Free Callback
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero__dots" role="tablist" aria-label="Hero slides">
+    <button class="hero__dot active" data-slide="0" role="tab" aria-label="Slide 1"></button>
+    <button class="hero__dot" data-slide="1" role="tab" aria-label="Slide 2"></button>
+    <button class="hero__dot" data-slide="2" role="tab" aria-label="Slide 3"></button>
+    <button class="hero__dot" data-slide="3" role="tab" aria-label="Slide 4"></button>
+  </div>
+</section>
+
+<!-- ===== TRUST BAR ===== -->
+<div class="trustbar" role="complementary" aria-label="Key metrics">
+  <div class="container">
+    <div class="trustbar__inner">
+      <div class="trustbar__item">
+        <div class="trustbar__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
+        </div>
+        <div class="trustbar__text">
+          <div class="trustbar__num">200+</div>
+          <div class="trustbar__label">Happy Families</div>
+        </div>
+      </div>
+      <div class="trustbar__divider"></div>
+      <div class="trustbar__item">
+        <div class="trustbar__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        </div>
+        <div class="trustbar__text">
+          <div class="trustbar__num">15+</div>
+          <div class="trustbar__label">Projects Delivered</div>
+        </div>
+      </div>
+      <div class="trustbar__divider"></div>
+      <div class="trustbar__item">
+        <div class="trustbar__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </div>
+        <div class="trustbar__text">
+          <div class="trustbar__num">14+</div>
+          <div class="trustbar__label">Years of Excellence</div>
+        </div>
+      </div>
+      <div class="trustbar__divider"></div>
+      <div class="trustbar__item">
+        <div class="trustbar__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+        </div>
+        <div class="trustbar__text">
+          <div class="trustbar__num">100%</div>
+          <div class="trustbar__label">On-Time Delivery</div>
+        </div>
+      </div>
+      <div class="trustbar__divider"></div>
+      <div class="trustbar__item">
+        <div class="trustbar__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <div class="trustbar__text">
+          <div class="trustbar__num">4.8★</div>
+          <div class="trustbar__label">Customer Rating</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== PEOPLE-FIRST INTRO ===== -->
+<section class="intro" aria-labelledby="intro-title">
+  <div class="container">
+    <div class="intro__inner">
+      <div class="intro__left reveal-left">
+        <div class="section-label intro__tag">Who We Are</div>
+        <h2 class="section-title section-title--lg" id="intro-title">
+          We Don't Just Build<br>Homes. We Build<br><em style="font-style:italic; color:var(--green-mid)">Lives.</em>
+        </h2>
+        <p class="intro__body">
+          At Sivanta Foundations, every apartment starts with a simple question: <strong>"What does this family truly need?"</strong> Since 2010, we've been building homes in Chennai that go beyond four walls — spaces where children grow, where elders feel safe, and where you return to after a long day and breathe easy.
+        </p>
+        <p class="intro__body">
+          We are based in Anna Nagar and have delivered over 15 projects across Puzhal, Madhavaram, and North Chennai. Every structure we build is backed by premium materials, Vaastu-compliant design, and an unwavering commitment to quality that you can feel the moment you walk through the door.
+        </p>
+        <div class="intro__values">
+          <div class="intro__value">
+            <div class="intro__value-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <div>
+              <div class="intro__value-title">Family Safety First</div>
+              <div class="intro__value-desc">Every structural decision is made with your family's safety as the non-negotiable priority.</div>
+            </div>
+          </div>
+          <div class="intro__value">
+            <div class="intro__value-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>
+            </div>
+            <div>
+              <div class="intro__value-title">Built with Heart</div>
+              <div class="intro__value-desc">Our team personally oversees every stage from foundation to finish — because this is your life's biggest investment.</div>
+            </div>
+          </div>
+          <div class="intro__value">
+            <div class="intro__value-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            </div>
+            <div>
+              <div class="intro__value-title">Full Transparency</div>
+              <div class="intro__value-desc">No hidden charges. Clear timelines. Honest conversations. That's the Sivanta promise.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="intro__right reveal-right">
+        <div class="intro__img-main">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2024/07/vanagarderdayview.jpg"
+               alt="Vana Garden apartment complex by Sivanta Foundations in Madhavaram, Chennai – lush green surroundings with modern architecture"
+               loading="lazy" />
+        </div>
+        <div class="intro__img-float">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2021/03/ccc.jpg"
+               alt="Interior view of a Sivanta Foundations apartment showing quality finishes"
+               loading="lazy" />
+        </div>
+        <div class="intro__award">
+          <div class="intro__award-num">14+</div>
+          <div class="intro__award-text">Years of<br>Excellence</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== HOME BUYER JOURNEY ===== -->
+<section class="journey" aria-labelledby="journey-title">
+  <div class="container">
+    <div class="journey__header reveal">
+      <div class="section-label">Your Path to Home</div>
+      <h2 class="section-title section-title--lg section-title--white" id="journey-title">
+        Your Home Buying Journey,<br>Made Simple
+      </h2>
+      <p class="journey__sub">From first enquiry to getting your keys — we walk beside you every step of the way.</p>
+    </div>
+    <div class="journey__steps">
+      <div class="journey__step reveal" style="transition-delay:0.1s">
+        <div class="journey__num">01</div>
+        <div class="journey__step-title">Enquire & Connect</div>
+        <div class="journey__step-desc">Call us or fill the form. Our advisor understands your needs, budget and timeline.</div>
+      </div>
+      <div class="journey__step reveal" style="transition-delay:0.2s">
+        <div class="journey__num">02</div>
+        <div class="journey__step-title">Free Site Visit</div>
+        <div class="journey__step-desc">See the apartment in person. No pressure. Ask questions. Explore the neighbourhood.</div>
+      </div>
+      <div class="journey__step reveal" style="transition-delay:0.3s">
+        <div class="journey__num">03</div>
+        <div class="journey__step-title">Choose & Book</div>
+        <div class="journey__step-desc">Pick your preferred unit. Secure it with a token booking. We handle all the paperwork.</div>
+      </div>
+      <div class="journey__step reveal" style="transition-delay:0.4s">
+        <div class="journey__num">04</div>
+        <div class="journey__step-title">Loan & Legals</div>
+        <div class="journey__step-desc">We partner with leading banks to help you get the best home loan rates quickly.</div>
+      </div>
+      <div class="journey__step reveal" style="transition-delay:0.5s">
+        <div class="journey__num">05</div>
+        <div class="journey__step-title">Move In & Thrive</div>
+        <div class="journey__step-desc">Receive your keys. Step into your brand-new home. Our team stays in touch post-handover.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== PROJECTS ===== -->
+<section class="projects" aria-labelledby="projects-title">
+  <div class="container">
+    <div class="projects__header reveal">
+      <div>
+        <div class="section-label" style="margin-bottom:12px">Our Portfolio</div>
+        <h2 class="section-title section-title--md" id="projects-title">Homes People Are Proud to Live In</h2>
+      </div>
+      <div class="projects__tabs">
+        <button class="projects__tab active" onclick="setTab(this, 'all')">All Projects</button>
+        <button class="projects__tab" onclick="setTab(this, 'ongoing')">Ongoing</button>
+        <button class="projects__tab" onclick="setTab(this, 'completed')">Completed</button>
+      </div>
+    </div>
+    <div class="projects__grid">
+      <!-- Featured -->
+      <article class="project-card project-card--featured reveal" data-status="ongoing">
+        <div class="project-card__img">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2024/01/van-garden-hp-min.jpg"
+               alt="Vana Garden – premium Vaastu-compliant apartment complex in Madhavaram, Chennai with 8 spacious units across 3 floors"
+               loading="lazy" />
+          <span class="project-card__status project-card__status--ongoing">Ongoing</span>
+        </div>
+        <div class="project-card__body">
+          <div class="project-card__location">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            Madhavaram, Chennai
+          </div>
+          <h3 class="project-card__name">Vana Garden</h3>
+          <p class="project-card__desc">A lush green residential enclave featuring 8 Vaastu-compliant apartments across 3 floors. Designed for nuclear families who want brightness, space, and elegance — with hospitals, schools, and supermarkets at your doorstep.</p>
+          <div class="project-card__meta">
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Units</span>
+              <span class="project-card__meta-val">8 Only</span>
+            </div>
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Floors</span>
+              <span class="project-card__meta-val">G + 3</span>
+            </div>
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Type</span>
+              <span class="project-card__meta-val">2 & 3 BHK</span>
+            </div>
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Status</span>
+              <span class="project-card__meta-val" style="color:var(--gold)">Booking Open</span>
+            </div>
+          </div>
+          <a href="/ongoing-projects/" class="project-card__link">
+            View Full Details
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </article>
+
+      <!-- Marvel Homes -->
+      <article class="project-card reveal" data-status="completed" style="transition-delay:0.15s">
+        <div class="project-card__img">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2021/03/eee.jpg"
+               alt="Sivanta Marvel Homes – completed apartments in Puzhal, Chennai offering luxurious living at affordable prices"
+               loading="lazy" />
+          <span class="project-card__status project-card__status--completed">Completed</span>
+        </div>
+        <div class="project-card__body">
+          <div class="project-card__location">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            Puzhal, Chennai
+          </div>
+          <h3 class="project-card__name">Sivanta Marvel Homes</h3>
+          <p class="project-card__desc">Luxurious apartments with premium quality finishes at an accessible price point. Located near Anna Nagar with easy connectivity to the rest of the city.</p>
+          <div class="project-card__meta">
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Status</span>
+              <span class="project-card__meta-val" style="color:var(--green-mid)">Sold Out</span>
+            </div>
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Type</span>
+              <span class="project-card__meta-val">2 BHK</span>
+            </div>
+          </div>
+          <a href="/apartments-in-chennai/" class="project-card__link">
+            View Project
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </article>
+
+      <!-- Studio 12 -->
+      <article class="project-card reveal" data-status="completed" style="transition-delay:0.3s">
+        <div class="project-card__img">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2026/02/Shivnatha-Foundation-a-smrt-buy-from-blog.jpg"
+               alt="Studio 12 Residence – a smart real estate investment by Sivanta Foundations in North Chennai"
+               loading="lazy" />
+          <span class="project-card__status project-card__status--completed">Completed</span>
+        </div>
+        <div class="project-card__body">
+          <div class="project-card__location">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            North Chennai
+          </div>
+          <h3 class="project-card__name">Studio 12 Residence</h3>
+          <p class="project-card__desc">A thoughtfully designed compact residence that offers smart living for young professionals and first-time homebuyers with excellent investment returns.</p>
+          <div class="project-card__meta">
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Status</span>
+              <span class="project-card__meta-val" style="color:var(--green-mid)">Delivered</span>
+            </div>
+            <div class="project-card__meta-item">
+              <span class="project-card__meta-label">Type</span>
+              <span class="project-card__meta-val">1 & 2 BHK</span>
+            </div>
+          </div>
+          <a href="/apartments-in-chennai/" class="project-card__link">
+            View Project
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </article>
+    </div>
+
+    <div style="text-align:center; margin-top:48px" class="reveal">
+      <a href="/apartments-in-chennai/" class="btn btn--outline">
+        View All Completed Projects
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== WHY CHOOSE US ===== -->
+<section class="why" aria-labelledby="why-title">
+  <div class="container">
+    <div class="why__inner">
+      <div class="why__left reveal-left">
+        <div class="why__card">
+          <div class="why__card-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <div class="why__card-title">Exceptional Quality</div>
+          <div class="why__card-desc">TMT steel foundations, premium cement and sand, first-quality teak wood. No compromises on what holds your home together.</div>
+        </div>
+        <div class="why__card">
+          <div class="why__card-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+          </div>
+          <div class="why__card-title">Superior Construction</div>
+          <div class="why__card-desc">Reinforced concrete frames, safety-coded electrical systems, planned ventilation. Built to code and beyond.</div>
+        </div>
+        <div class="why__card why__card--accent">
+          <div class="why__card-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>
+          </div>
+          <div class="why__card-title">Vaastu Compliance</div>
+          <div class="why__card-desc">All our homes are designed in accordance with Vaastu Shastra, ensuring positive energy flow and family wellbeing.</div>
+        </div>
+        <div class="why__card">
+          <div class="why__card-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          </div>
+          <div class="why__card-title">On-Time Delivery</div>
+          <div class="why__card-desc">We respect your timeline. Every project is planned meticulously and delivered as promised.</div>
+        </div>
+        <div class="why__card">
+          <div class="why__card-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          </div>
+          <div class="why__card-title">Eco-Friendly Design</div>
+          <div class="why__card-desc">Energy-efficient layouts, rainwater harvesting, green spaces. A home that's good for your family and the planet.</div>
+        </div>
+        <div class="why__card">
+          <div class="why__card-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
+          </div>
+          <div class="why__card-title">Customer Support</div>
+          <div class="why__card-desc">Our team is available from first enquiry through post-handover. You're never alone in this journey.</div>
+        </div>
+      </div>
+
+      <div class="why__right reveal-right">
+        <div class="section-label" style="margin-bottom:16px">Why Sivanta</div>
+        <h2 class="section-title section-title--lg" id="why-title" style="margin-bottom:20px">
+          The Standard You<br>Deserve in Your Home
+        </h2>
+        <p class="why__body">
+          When you buy a Sivanta home, you're not just paying for bricks and mortar. You're investing in a standard of living — where your family's safety, comfort, and happiness are designed into every square foot. Our homes are built to outlast decades and create the foundation for generations of memories.
+        </p>
+        <div class="why__materials">
+          <div class="why__materials-title">Materials We Trust</div>
+          <div class="why__material-tags">
+            <span class="why__material-tag">TMT Steel Foundation</span>
+            <span class="why__material-tag">Premium Quality Cement</span>
+            <span class="why__material-tag">1st Quality Teak Wood</span>
+            <span class="why__material-tag">Anchor Roma Electricals</span>
+            <span class="why__material-tag">ISI-marked Plumbing</span>
+            <span class="why__material-tag">Premium Wall Paints</span>
+            <span class="why__material-tag">Quality Sanitary Ware</span>
+            <span class="why__material-tag">Best Grade Sand & Aggregate</span>
+          </div>
+        </div>
+        <a href="/about-us/" class="btn btn--gold">
+          Learn More About Us
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== LOCATION ADVANTAGE ===== -->
+<section class="location" aria-labelledby="location-title">
+  <div class="container">
+    <div class="location__inner">
+      <div class="location__left reveal-left">
+        <div class="section-label">Location</div>
+        <h2 class="section-title section-title--lg section-title--white location__title" id="location-title">
+          Prime Addresses.<br>Unmatched Connectivity.
+        </h2>
+        <p class="location__body">
+          Every Sivanta project is chosen for its connectivity, potential, and liveability. We build where your family can thrive — close to schools, hospitals, public transport, and markets — so your home works for your life, not the other way around.
+        </p>
+        <div class="location__points">
+          <div class="location__point">
+            <svg class="location__point-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 20V10M12 20V4M6 20v-6"/></svg>
+            <div>
+              <div class="location__point-title">Rising Property Values</div>
+              <div class="location__point-desc">North Chennai — especially Puzhal and Madhavaram — has seen 30–40% appreciation over the last 5 years. Your investment keeps growing.</div>
+            </div>
+          </div>
+          <div class="location__point">
+            <svg class="location__point-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>
+            <div>
+              <div class="location__point-title">Excellent Connectivity</div>
+              <div class="location__point-desc">Minutes from CMRL Metro stations, NH 16, Anna Nagar, and the IT corridor. Getting anywhere in Chennai is easy.</div>
+            </div>
+          </div>
+          <div class="location__point">
+            <svg class="location__point-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
+            <div>
+              <div class="location__point-title">Family-Friendly Surroundings</div>
+              <div class="location__point-desc">Top schools, multi-specialty hospitals, shopping centres, parks and temples — everything a family needs is nearby.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="location__right reveal-right">
+        <div style="margin-bottom:20px">
+          <div class="section-label" style="color:var(--gold-light); margin-bottom:12px">
+            <span style="display:flex;align-items:center;gap:8px">
+              <span style="width:28px;height:1px;background:var(--gold-light);display:inline-block"></span>
+              Our Locations
+            </span>
+          </div>
+        </div>
+        <div class="location__areas">
+          <div class="location__area">
+            <div class="location__area-name">Puzhal</div>
+            <div class="location__area-type">Residential Hub</div>
+            <div class="location__area-facilities">Near Anna Nagar · Schools · Hospitals · Markets · MRTS Access</div>
+          </div>
+          <div class="location__area">
+            <div class="location__area-name">Madhavaram</div>
+            <div class="location__area-type">Growing Locality</div>
+            <div class="location__area-facilities">Metro Station · IT Parks · Colleges · Supermarkets · Quiet Neighbourhood</div>
+          </div>
+          <div class="location__area">
+            <div class="location__area-name">Perambur</div>
+            <div class="location__area-type">Urban Living</div>
+            <div class="location__area-facilities">Railway Access · Hospitals · Banks · Schools · Bus Connectivity</div>
+          </div>
+          <div class="location__area">
+            <div class="location__area-name">Anna Nagar</div>
+            <div class="location__area-type">Premium Zone</div>
+            <div class="location__area-facilities">Our HQ · Best Schools · Metro · Shopping Malls · Medical Facilities</div>
+          </div>
+        </div>
+
+        <div style="margin-top:32px; padding:24px; background:rgba(201,151,58,0.15); border-radius:var(--radius-lg); border:1px solid rgba(201,151,58,0.3)">
+          <div style="font-size:0.78rem;color:var(--gold-light);font-weight:600;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:6px">Our Office Address</div>
+          <div style="color:rgba(255,255,255,0.8);font-size:0.9rem;line-height:1.7">
+            No: 3, 1st Floor, C-47, 2nd Avenue<br>
+            TNHB Complex, Anna Nagar<br>
+            Chennai – 600040<br>
+            <a href="tel:+919994988777" style="color:var(--gold-light);font-weight:600;margin-top:8px;display:inline-block">+91 99949 88777</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== TESTIMONIALS ===== -->
+<section class="testimonials" aria-labelledby="testimonials-title">
+  <div class="container">
+    <div class="testimonials__header reveal">
+      <div class="section-label">Real Voices</div>
+      <h2 class="section-title section-title--md" id="testimonials-title" style="margin-top:12px">
+        Stories from Our Families
+      </h2>
+      <p class="section-subtitle" style="margin:12px auto 0; text-align:center">
+        Don't take our word for it. Listen to the people who now call a Sivanta home, their home.
+      </p>
+    </div>
+    <div class="testimonials__grid">
+      <div class="testimonial-card reveal" style="transition-delay:0.1s">
+        <span class="testimonial-card__quote">"</span>
+        <div class="testimonial-card__stars">★★★★★</div>
+        <p class="testimonial-card__text">Our apartment is so spacious and our elders feel completely at peace thanks to the perfect Vaastu compliance. We really appreciate the personal care from the management during handover — it felt like family.</p>
+        <div class="testimonial-card__author">
+          <div class="testimonial-card__avatar">P</div>
+          <div>
+            <div class="testimonial-card__name">Mrs. Prabha Devi</div>
+            <div class="testimonial-card__role">Homeowner · Puzhal</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="testimonial-card testimonial-card--featured reveal" style="transition-delay:0.2s">
+        <span class="testimonial-card__quote">"</span>
+        <div class="testimonial-card__stars">★★★★★</div>
+        <p class="testimonial-card__text">Very luxurious and high-quality feel at such an affordable price. The location is brilliant — so convenient for everything. We are genuinely proud to call our home at Sivanta Marvel Homes ours.</p>
+        <div class="testimonial-card__author">
+          <div class="testimonial-card__avatar">R</div>
+          <div>
+            <div class="testimonial-card__name">Mr. R. Chandran</div>
+            <div class="testimonial-card__role">Homeowner · Marvel Homes</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="testimonial-card reveal" style="transition-delay:0.3s">
+        <span class="testimonial-card__quote">"</span>
+        <div class="testimonial-card__stars">★★★★★</div>
+        <p class="testimonial-card__text">As a first-time home buyer I was nervous, but the Sivanta team guided me through every step. The transparency in pricing and documentation made everything so stress-free. My family loves our new home.</p>
+        <div class="testimonial-card__author">
+          <div class="testimonial-card__avatar">S</div>
+          <div>
+            <div class="testimonial-card__name">Mr. Suresh Kumar</div>
+            <div class="testimonial-card__role">Homeowner · Madhavaram</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="text-align:center; margin-top:40px" class="reveal">
+      <a href="/testimonials/" class="btn btn--outline">
+        Read More Stories
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FAQ ===== -->
+<section class="faq" aria-labelledby="faq-title">
+  <div class="container">
+    <div class="faq__inner">
+      <div class="faq__left reveal-left">
+        <div class="section-label" style="margin-bottom:16px">Common Questions</div>
+        <h2 class="section-title section-title--md" id="faq-title" style="margin-bottom:16px">
+          Everything You<br>Need to Know
+        </h2>
+        <p class="faq__left-body">
+          Buying a home is a big decision and we believe in complete transparency. If you don't find your answer here, our team is just one call away.
+        </p>
+        <div class="faq__cta">
+          <div class="faq__cta-phone">
+            <div class="faq__cta-phone-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.63 19.79 19.79 0 01.07 2.18 2 2 0 012.06 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+            </div>
+            <div>
+              <div class="faq__cta-phone-label">Call us anytime</div>
+              <div class="faq__cta-phone-num">+91 99949 88777</div>
+            </div>
+          </div>
+          <a href="/contact-us/" class="btn btn--gold" style="width:100%; justify-content:center; margin-top:4px">
+            Send Us a Message
+          </a>
+        </div>
+      </div>
+
+      <div class="faq__list reveal-right">
+        <div class="faq__item">
+          <button class="faq__question" onclick="toggleFaq(this)" aria-expanded="false">
+            What is the pricing for your apartments in Chennai?
+            <span class="faq__question-icon">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M12 5v14M5 12h14"/></svg>
+            </span>
+          </button>
+          <div class="faq__answer">
+            <div class="faq__answer-inner">Our pricing is flexible and depends on the size, floor, and amenities of the unit you choose. We offer something for every budget — from compact 1 BHK options to spacious 3 BHK apartments. For specific current pricing, please contact our sales team or visit the project page. We believe in full transparency — no hidden charges.</div>
+          </div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__question" onclick="toggleFaq(this)" aria-expanded="false">
+            Is buying an apartment in Chennai a good investment?
+            <span class="faq__question-icon">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M12 5v14M5 12h14"/></svg>
+            </span>
+          </button>
+          <div class="faq__answer">
+            <div class="faq__answer-inner">Absolutely. Chennai's real estate market continues to grow steadily. Areas like Puzhal, Madhavaram and Perambur have seen consistent appreciation of 30–40% over the past 5 years, driven by infrastructure development, metro expansion and growing demand from IT professionals and families. A Sivanta home combines quality construction with strategic location — making it an investment that appreciates in both financial and lifestyle terms.</div>
+          </div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__question" onclick="toggleFaq(this)" aria-expanded="false">
+            Are your apartments Vaastu-compliant?
+            <span class="faq__question-icon">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M12 5v14M5 12h14"/></svg>
+            </span>
+          </button>
+          <div class="faq__answer">
+            <div class="faq__answer-inner">Yes, all our apartments are designed in accordance with Vaastu Shastra principles. We consult with Vaastu experts at the design stage to ensure correct orientation, room placement, natural light flow, and positive energy — so your home brings peace and wellbeing to your family.</div>
+          </div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__question" onclick="toggleFaq(this)" aria-expanded="false">
+            What financing or home loan support do you offer?
+            <span class="faq__question-icon">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M12 5v14M5 12h14"/></svg>
+            </span>
+          </button>
+          <div class="faq__answer">
+            <div class="faq__answer-inner">We have partnerships with leading nationalised and private sector banks including SBI, HDFC, ICICI, and Axis Bank. Our team assists you through the entire loan process — documentation, verification, and disbursement — to help you secure the best possible interest rate with minimal paperwork hassle.</div>
+          </div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__question" onclick="toggleFaq(this)" aria-expanded="false">
+            How do I schedule a free site visit?
+            <span class="faq__question-icon">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M12 5v14M5 12h14"/></svg>
+            </span>
+          </button>
+          <div class="faq__answer">
+            <div class="faq__answer-inner">Scheduling a site visit is easy and completely free with no obligation. Simply call us at +91 99949 88777, fill the quick enquiry form on this page, or click the "Book Site Visit" button above. Our team will arrange a convenient time for you to visit the property, ask all your questions, and experience Sivanta quality firsthand.</div>
+          </div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__question" onclick="toggleFaq(this)" aria-expanded="false">
+            What makes Sivanta Foundations different from other builders?
+            <span class="faq__question-icon">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M12 5v14M5 12h14"/></svg>
+            </span>
+          </button>
+          <div class="faq__answer">
+            <div class="faq__answer-inner">Three things set us apart: our material standards (we use only premium TMT steel, teak wood and Anchor Roma fittings), our people-first approach (your family's wellbeing drives every design decision), and our post-sale support (we stay connected after handover). We're a smaller, focused team — and that means every family gets personal attention, not a ticket number.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== CTA SECTION ===== -->
+<section class="cta-section" aria-labelledby="cta-title">
+  <div class="container">
+    <div class="cta-section__inner reveal">
+      <div class="section-label" style="color:rgba(255,255,255,0.8);justify-content:center;margin-bottom:16px">
+        <span style="width:28px;height:1px;background:rgba(255,255,255,0.6);display:inline-block"></span>
+        Take the First Step
+        <span style="width:28px;height:1px;background:rgba(255,255,255,0.6);display:inline-block"></span>
+      </div>
+      <h2 class="cta-section__title" id="cta-title">
+        Your Dream Home is<br>Closer Than You Think
+      </h2>
+      <p class="cta-section__sub">
+        Book a free, no-obligation site visit today. Walk through the apartment, meet our team, and feel the Sivanta difference for yourself.
+      </p>
+      <div class="cta-section__actions">
+        <a href="/contact-us/" class="btn btn--white">
+          Book Free Site Visit
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+        <a href="tel:+919994988777" class="btn btn--outline-white">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:16px;height:16px"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.63 19.79 19.79 0 01.07 2.18 2 2 0 012.06 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+          Call Now: +91 99949 88777
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== BLOG ===== -->
+<section class="blog" aria-labelledby="blog-title">
+  <div class="container">
+    <div class="blog__header reveal">
+      <div>
+        <div class="section-label" style="margin-bottom:12px">Homebuyer Guides</div>
+        <h2 class="section-title section-title--md" id="blog-title">Insights for Smarter Home Buying</h2>
+      </div>
+      <a href="/blog/" class="btn btn--outline">View All Articles</a>
+    </div>
+    <div class="blog__grid">
+      <article class="blog-card reveal" style="transition-delay:0.1s">
+        <div class="blog-card__img">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2026/01/Prime-Locations-to-Consider-When-Choosing-a-Home-in-Perambur-1-1.jpg"
+               alt="Prime locations in Perambur for home buyers – guide by Sivanta Foundations"
+               loading="lazy" />
+        </div>
+        <div class="blog-card__body">
+          <div class="blog-card__cat">Home Buying Guide</div>
+          <h3 class="blog-card__title">
+            <a href="/prime-locations-to-consider-when-choosing-a-home-in-perambur/">Prime Locations to Consider When Choosing a Home in Perambur</a>
+          </h3>
+          <div class="blog-card__meta">
+            <span>January 10, 2026</span>
+            <span class="blog-card__meta-dot"></span>
+            <span>5 min read</span>
+          </div>
+        </div>
+      </article>
+      <article class="blog-card reveal" style="transition-delay:0.2s">
+        <div class="blog-card__img">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2026/01/What-Facilities-Should-You-Look-for-in-a-Modern-Apartment-1.jpg"
+               alt="Essential facilities checklist for modern apartments in Chennai"
+               loading="lazy" />
+        </div>
+        <div class="blog-card__body">
+          <div class="blog-card__cat">Apartment Living</div>
+          <h3 class="blog-card__title">
+            <a href="/what-facilities-should-you-look-for-in-a-modern-apartment/">What Facilities Should You Look for in a Modern Apartment?</a>
+          </h3>
+          <div class="blog-card__meta">
+            <span>January 5, 2026</span>
+            <span class="blog-card__meta-dot"></span>
+            <span>4 min read</span>
+          </div>
+        </div>
+      </article>
+      <article class="blog-card reveal" style="transition-delay:0.3s">
+        <div class="blog-card__img">
+          <img src="https://www.sivantafoundations.com/wp-content/uploads/2026/02/Artboard-1.jpg"
+               alt="How to judge whether an apartment is worth investing in – tips for Chennai home buyers"
+               loading="lazy" />
+        </div>
+        <div class="blog-card__body">
+          <div class="blog-card__cat">Investment</div>
+          <h3 class="blog-card__title">
+            <a href="/how-to-judge-whether-an-apartment-is-truly-worth-the-investment/">How to Judge Whether an Apartment is Truly Worth the Investment</a>
+          </h3>
+          <div class="blog-card__meta">
+            <span>January 20, 2026</span>
+            <span class="blog-card__meta-dot"></span>
+            <span>6 min read</span>
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ===== CONTACT STRIP ===== -->
+<div class="contact-strip" role="complementary" aria-label="Contact information">
+  <div class="container">
+    <div class="contact-strip__inner">
+      <div class="contact-strip__item">
+        <div class="contact-strip__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+        </div>
+        <div>
+          <div class="contact-strip__label">Visit Us</div>
+          <div class="contact-strip__val">C-47, 2nd Ave, TNHB Complex,<br>Anna Nagar, Chennai 600040</div>
+        </div>
+      </div>
+      <div class="contact-strip__divider"></div>
+      <div class="contact-strip__item">
+        <div class="contact-strip__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.63 19.79 19.79 0 01.07 2.18 2 2 0 012.06 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+        </div>
+        <div>
+          <div class="contact-strip__label">Call Us</div>
+          <div class="contact-strip__val"><a href="tel:+919994988777">+91 99949 88777</a></div>
+        </div>
+      </div>
+      <div class="contact-strip__divider"></div>
+      <div style="grid-column: span 1;">
+        <div class="contact-strip__label" style="color:rgba(255,255,255,0.5);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px">
+          Get a Quick Callback
+        </div>
+        <div class="contact-strip__form">
+          <input class="contact-strip__input" type="tel" placeholder="Your phone number" aria-label="Phone number for callback" />
+          <button class="btn btn--gold" onclick="alert('Thank you! We will call you shortly.')">Call Me</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <div class="footer__top">
+      <div>
+        <div class="footer__logo-text">Sivanta</div>
+        <div class="footer__logo-sub">Foundations · Est. 2010</div>
+        <p class="footer__about">
+          We are a passionate team of builders with deep expertise in planning, development and construction of truly distinctive residences in Chennai. We build homes where families thrive for generations.
+        </p>
+        <div class="footer__social">
+          <a href="https://www.facebook.com/sivantafoundations/" class="footer__social-link" aria-label="Follow Sivanta Foundations on Facebook" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+          <a href="https://www.instagram.com/sivantafoundations/" class="footer__social-link" aria-label="Follow Sivanta Foundations on Instagram" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+          </a>
+          <a href="https://wa.me/919994988777" class="footer__social-link" aria-label="Chat with Sivanta Foundations on WhatsApp" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M5.077 18.923l-.538 1.956c-.096.354-.393.523-.719.383l-1.956-.538c-.26-.071-.496-.026-.664.207L0 22.5l1.463.462c.346.109.556.487.447.833l-.556 1.75c-.109.347.087.714.434.823l2.078.654.655-2.077c.109-.347.476-.543.823-.434l1.75.556c.347.109.724-.101.833-.447L8.39 22.19l1.462.462-2 3.558a.75.75 0 01-.65.375h-.075L4 25.74c-.375-.119-.617-.51-.54-.896l.77-3.527-2.309-.728c-.425-.134-.618-.615-.421-1.019l.927-2.006a.75.75 0 01.969-.364l3.201 1.477z"/></svg>
+          </a>
+        </div>
+      </div>
+      <div>
+        <div class="footer__col-title">Quick Links</div>
+        <nav class="footer__links" aria-label="Footer navigation">
+          <a href="/">Home</a>
+          <a href="/about-us/">About Us</a>
+          <a href="/apartment-flats-in-madhavaram-and-puzhal/">Ongoing Projects</a>
+          <a href="/apartments-in-chennai/">Completed Projects</a>
+          <a href="/commercial-property-for-sale-in-chennai/">Commercial</a>
+          <a href="/testimonials/">Testimonials</a>
+          <a href="/blog/">Blog</a>
+          <a href="/contact-us/">Contact Us</a>
+        </nav>
+      </div>
+      <div>
+        <div class="footer__col-title">Our Locations</div>
+        <div class="footer__links">
+          <a href="/apartments-in-puzhal/">Apartments in Puzhal</a>
+          <a href="/apartment-flats-in-madhavaram-and-puzhal/">Flats in Madhavaram</a>
+          <a href="/apartments-in-chennai/">Apartments in Anna Nagar</a>
+          <a href="/apartments-in-chennai/">Apartments in Perambur</a>
+          <a href="/commercial-property-for-sale-in-chennai/">Commercial Chennai</a>
+        </div>
+      </div>
+      <div>
+        <div class="footer__col-title">Contact</div>
+        <div style="display:flex;flex-direction:column;gap:14px">
+          <div style="font-size:0.85rem;color:rgba(255,255,255,0.55);line-height:1.7">
+            No: 3, 1st Floor, C-47, 2nd Avenue<br>TNHB Complex, Anna Nagar<br>Chennai – 600040
+          </div>
+          <div>
+            <div style="font-size:0.7rem;color:rgba(255,255,255,0.4);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:3px">Phone</div>
+            <a href="tel:+919994988777" style="font-size:0.9rem;color:var(--gold-light);font-weight:600">+91 99949 88777</a>
+          </div>
+          <div>
+            <div style="font-size:0.7rem;color:rgba(255,255,255,0.4);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:3px">Office Hours</div>
+            <div style="font-size:0.85rem;color:rgba(255,255,255,0.55)">Mon – Sat: 9:00 AM – 6:00 PM</div>
+          </div>
+          <a href="/contact-us/" class="btn btn--gold" style="padding:10px 20px;font-size:0.78rem">
+            Book Site Visit
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <div>© 2026 Sivanta Foundations. All Rights Reserved. Built with care in Chennai.</div>
+      <div class="footer__bottom-links">
+        <a href="/privacy-policy/">Privacy Policy</a>
+        <a href="/contact-us/">Terms</a>
+        <a href="/sitemap.xml">Sitemap</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ===== STICKY ENQUIRY ===== -->
+<div class="sticky-enquiry" id="stickyEnquiry" role="complementary" aria-label="Quick enquiry">
+  <div class="container">
+    <div class="sticky-enquiry__inner">
+      <div class="sticky-enquiry__text">
+        Interested in a Sivanta home? <span>Book a free site visit today — no obligation.</span>
+      </div>
+      <div class="sticky-enquiry__actions">
+        <a href="tel:+919994988777" class="btn btn--outline" style="padding:10px 20px;font-size:0.78rem">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:14px;height:14px"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.63 19.79 19.79 0 01.07 2.18 2 2 0 012.06 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+          Call Now
+        </a>
+        <a href="/contact-us/" class="btn btn--gold" style="padding:10px 20px;font-size:0.78rem">
+          Book Site Visit
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== WHATSAPP FAB ===== -->
+<a href="https://wa.me/919994988777?text=Hi%20Sivanta%20Foundations%2C%20I%27m%20interested%20in%20your%20apartments.%20Please%20share%20more%20details."
+   class="whatsapp-fab"
+   aria-label="Chat with us on WhatsApp"
+   target="_blank"
+   rel="noopener noreferrer">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+  </svg>
+</a>
+
+<!-- ===== JAVASCRIPT ===== -->
+<script>
+  // ─── HERO SLIDER ───
+  let currentSlide = 0;
+  const slides = document.querySelectorAll('.hero__slide');
+  const dots = document.querySelectorAll('.hero__dot');
+
+  function goToSlide(n) {
+    slides[currentSlide].classList.remove('active');
+    dots[currentSlide].classList.remove('active');
+    currentSlide = (n + slides.length) % slides.length;
+    slides[currentSlide].classList.add('active');
+    dots[currentSlide].classList.add('active');
+  }
+
+  dots.forEach((dot, i) => dot.addEventListener('click', () => goToSlide(i)));
+  setInterval(() => goToSlide(currentSlide + 1), 5000);
+
+  // ─── NAVBAR SCROLL ───
+  const navbar = document.querySelector('.navbar');
+  window.addEventListener('scroll', () => {
+    navbar.classList.toggle('scrolled', window.scrollY > 60);
+  });
+
+  // ─── STICKY ENQUIRY ───
+  const stickyEnquiry = document.getElementById('stickyEnquiry');
+  window.addEventListener('scroll', () => {
+    stickyEnquiry.classList.toggle('visible', window.scrollY > 500);
+  });
+
+  // ─── FAQ TOGGLE ───
+  function toggleFaq(btn) {
+    const item = btn.closest('.faq__item');
+    const answer = item.querySelector('.faq__answer');
+    const inner = item.querySelector('.faq__answer-inner');
+    const isOpen = item.classList.contains('open');
+
+    // Close all
+    document.querySelectorAll('.faq__item.open').forEach(el => {
+      el.classList.remove('open');
+      el.querySelector('.faq__answer').style.maxHeight = '0';
+      el.querySelector('.faq__question').setAttribute('aria-expanded', 'false');
+    });
+
+    if (!isOpen) {
+      item.classList.add('open');
+      answer.style.maxHeight = inner.scrollHeight + 'px';
+      btn.setAttribute('aria-expanded', 'true');
+    }
+  }
+
+  // ─── PROJECT TABS ───
+  function setTab(tabEl, status) {
+    document.querySelectorAll('.projects__tab').forEach(t => t.classList.remove('active'));
+    tabEl.classList.add('active');
+
+    document.querySelectorAll('.project-card').forEach(card => {
+      if (status === 'all' || card.dataset.status === status) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+
+  // ─── SCROLL REVEAL ───
+  const revealEls = document.querySelectorAll('.reveal, .reveal-left, .reveal-right');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('revealed');
+      }
+    });
+  }, { threshold: 0.12 });
+  revealEls.forEach(el => observer.observe(el));
+
+  // ─── COUNT-UP ANIMATION ───
+  function animateCount(el, target, suffix = '') {
+    let start = 0;
+    const duration = 1800;
+    const step = (timestamp) => {
+      if (!start) start = timestamp;
+      const progress = Math.min((timestamp - start) / duration, 1);
+      const eased = 1 - Math.pow(1 - progress, 3);
+      el.textContent = Math.floor(eased * target) + suffix;
+      if (progress < 1) requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
+  }
+
+  const trustbarObs = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const nums = document.querySelectorAll('.trustbar__num');
+        const targets = [200, 15, 14, 100, 4.8];
+        const suffixes = ['+', '+', '+', '%', '★'];
+        nums.forEach((el, i) => animateCount(el, targets[i], suffixes[i]));
+        trustbarObs.disconnect();
+      }
+    });
+  }, { threshold: 0.5 });
+
+  const trustbar = document.querySelector('.trustbar');
+  if (trustbar) trustbarObs.observe(trustbar);
+</script>
+
+</body>
+</html>
